@@ -1,18 +1,28 @@
-# Team Practices
+# 👥 04: Team Practices - The Human Element
 
-These practices focus on the human element and the environment in which software is built.
+**Goal:** To create a sustainable, collaborative environment where developers can do their best work without burning out.
 
-## Whole Team
-**What it is**: Having the customer (or Product Owner) and all necessary specialists available to the team full-time.
-**Best Practice**: Ensure the PO is accessible for quick clarifications to avoid "blocking" developers.
-**Scrum Integration**: Reinforces the Scrum team's cross-functional nature and the PO's role in the Sprint.
+## 🏢 The Whole Team
+The team isn't just the developers; it's the developers, the testers, and the Product Owner working as a single unit.
 
-## Sustainable Pace
-**What it is**: Avoiding overtime and "death marches." The team should work at a pace they can maintain indefinitely.
-**Best Practice**: Respect boundaries and avoid burnout to maintain high code quality.
-**Scrum Integration**: Use the Sprint Velocity to plan realistically, ensuring the team doesn't over-commit during Sprint Planning.
+**The "Available PO" Rule:** The Product Owner should be readily available to answer questions. A developer waiting 4 hours for a PO response is a waste of the team's velocity.
 
-## Coding Standards
-**What it is**: A shared agreement on how code should be written (naming, formatting, structure).
-**Best Practice**: Automate standards with linting tools to avoid arguments during reviews.
-**Scrum Integration**: Essential for Collective Ownership; makes it easier for any Scrum team member to work on any part of the codebase.
+## ⏳ Sustainable Pace
+Software development is a marathon, not a sprint (ironically).
+
+**The Rule:** No mandatory overtime. No "death marches."
+**The Logic:** Tired developers write bugs. Bugs require refactoring. Refactoring slows down the project. Therefore, working overtime actually *slows down* the project in the long run.
+
+## 📜 Coding Standards
+A shared, written agreement on how the code should look and feel.
+
+**Why it matters:**
+- Makes **Collective Ownership** possible.
+- Reduces "bike-shedding" (endless arguments over tabs vs. spaces).
+- Lowers the cognitive load when reading someone else's code.
+
+**✅ Best Practice:** Automate your standards using Linters and Formatters (e.g., Prettier, ESLint) so the computer handles the policing, not the humans.
+
+---
+*🔗 Context: Find your place in the overall curriculum here.*
+**[📘 Extreme Programming Reference Guide](./README.md)**

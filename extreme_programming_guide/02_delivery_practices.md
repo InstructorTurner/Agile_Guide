@@ -1,18 +1,30 @@
-# Delivery Practices
+# 📦 02: Delivery Practices - Shipping with Confidence
 
-These practices ensure that software is delivered frequently and reliably.
+**Goal:** To move software from a developer's machine to the user as quickly and safely as possible.
 
-## Continuous Integration (CI)
-**What it is**: Merging all developer working copies to a shared mainline several times a day.
-**Best Practice**: Automate the build and test suite; if the build breaks, fixing it is the top priority.
-**Scrum Integration**: CI is the engine that enables the "Potentially Releasable Increment" at the end of every Sprint.
+## 🔄 Continuous Integration (CI)
+**What it is:** The practice of merging all developer working copies to a shared mainline several times a day.
 
-## Small Releases
-**What it is**: Deploying small, functional updates to users as frequently as possible.
-**Best Practice**: Focus on the smallest piece of value that can be delivered.
-**Scrum Integration**: Align small releases with the end of the Sprint or even mid-Sprint if the pipeline allows.
+**The CI Pipeline:**
+`Code $\rightarrow$ Commit $\rightarrow$ Automated Build $\rightarrow$ Automated Tests $\rightarrow$ Deployment`
 
-## Collective Ownership
-**What it is**: The principle that any developer can change any part of the code at any time to improve it or fix a bug.
-**Best Practice**: Use coding standards and tests to ensure that changes by others don't break the system.
-**Scrum Integration**: Prevents silos within the Scrum team, ensuring that any team member can pick up any item from the Sprint Backlog.
+**✅ Best Practice:** If the build breaks, fixing it is the **#1 priority** for the entire team. A broken build is a "stop-the-line" event.
+
+## 🚀 Small Releases
+**What it is:** Deploying small, functional updates to users as frequently as possible rather than one giant "big bang" release.
+
+**The Benefit:** Rapid feedback. The sooner the user touches the feature, the sooner you know if you built the right thing.
+
+## 🤝 Collective Ownership
+**What it is:** The principle that any developer can change any part of the code at any time to improve it or fix a bug.
+
+**The Requirements for Success:**
+- **Strong Test Suite:** You can't own everything if you're afraid to break something.
+- **Coding Standards:** Code must look like it was written by a single person, not a dozen different individuals.
+
+**⚠️ Anti-Pattern: "Code Silos"**
+When only "Dave" knows how the payment module works. Collective ownership destroys silos.
+
+---
+*🔗 Context: Find your place in the overall curriculum here.*
+**[📘 Extreme Programming Reference Guide](./README.md)**

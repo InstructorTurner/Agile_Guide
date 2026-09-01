@@ -31,5 +31,3 @@ The core idea is to avoid "long-running" branches. Instead of creating a massive
 
 ***
 **Summary:** We prioritize constant, small integration over the perceived safety of isolation. By keeping branches short-lived, we ensure that the `develop` branch remains the single source of truth and that merge conflicts remain trivial.
-
-**Next Up:** Now that we know *how* to branch, the next critical step is to define the safe process for merging that work into the main trunk: the Pull Request. This will go into `02_the_pull_request_process.md`.

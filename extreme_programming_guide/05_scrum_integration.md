@@ -1,18 +1,25 @@
-# Scrum Integration
+# 🔄 05: Scrum Integration - The Hybrid Approach
 
-Since our team uses Scrum, we don't implement XP as a separate framework, but rather as a set of "power-ups" to our technical process.
+**Goal:** To map specific XP technical practices directly onto the Scrum ceremonies we already use.
 
-## Where XP fits into Scrum Ceremonies
+## 🗺️ Mapping XP to Scrum Ceremonies
 
-| Scrum Ceremony | XP Practice to Apply | Benefit |
+| Scrum Event | XP "Power-Up" | The Practical Application |
 | :--- | :--- | :--- |
-| **Sprint Planning** | Simple Design & Planning Game | Reduces over-engineering and improves estimate accuracy. |
-| **Daily Scrum** | Pair Programming Updates | Discussing "who is pairing on what" helps identify knowledge gaps. |
-| **The Sprint** | TDD, CI, Refactoring | Ensures the "Done" increment is actually high quality. |
-| **Sprint Review** | Small Releases | Demonstrating a genuinely shippable increment. |
-| **Retrospective** | Coding Standards & Sustainable Pace | Use the Retro to refine standards or address burnout. |
+| **Sprint Planning** | **Simple Design** | Challenge the "what if" requirements. Focus on the simplest path to the Sprint Goal. |
+| **Daily Scrum** | **Pairing Strategy** | Instead of just "what I did," discuss "who I am pairing with" to tackle the hardest stories first. |
+| **The Sprint** | **TDD & CI** | The "Definition of Done" should include: "Tests written first" and "Merged to main and CI passing." |
+| **Sprint Review** | **Small Releases** | Don't just demo a slide deck; demo a functional slice of code that is potentially releasable. |
+| **Retrospective** | **Sustainable Pace** | Use the Retro to discuss if the team is feeling burnt out and adjust the next Sprint's capacity. |
 
-## The "Hybrid" Mindset
-- **Scrum** handles the *Organization*: When do we meet? Who decides what is next?
-- **XP** handles the *Execution*: How do we write the code? How do we ensure it works?
-- **Result**: A team that is not only agile in its planning but also agile in its technical implementation.
+## 💡 The Hybrid Mindset Summary
+
+If you are ever unsure which "rule" to follow, remember this:
+- **Scrum** is the **Skeleton**: It provides the structure, the roles, and the heartbeat of the project.
+- **XP** is the **Muscle**: It provides the strength, the quality, and the actual movement of the code.
+
+**You don't "do XP" or "do Scrum"—you use the best of both to deliver high-quality software.**
+
+---
+*🔗 Context: Find your place in the overall curriculum here.*
+**[📘 Extreme Programming Reference Guide](./README.md)**

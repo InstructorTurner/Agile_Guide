@@ -18,8 +18,6 @@ Without a formal DoD, we risk:
 ## 📋 Our Team's DoD Checklist (Adapt as needed!)
 A User Story is DONE when:
 *   [ ] Functional: The feature works end-to-end as tested by a user.
-*   [ ] Tested: It has passed all necessary unit, integration, and acceptance tests.
-*   [ ] Documented: User guides/documentation have been updated to reflect the change.
 *   [ ] Reviewed: Pair programming or peer review has been completed by another team member.
 *   [ ] Approved: The Product Owner has given final sign-off that it meets the acceptance criteria.
 

@@ -35,7 +35,7 @@ The best reviewers are those who don't just report bugs, but who actively seek o
 To ensure that high-frequency integration remains possible, we must keep the PR cycle short.
 
 *   **Keep PRs Small:** It is significantly easier and faster to review 5 small PRs than one massive PR. Small PRs are reviewed more thoroughly and merged faster.
-*   **Prompt Reviews:** Treat reviewing as a primary task, not an interruption. Aim to review peer PRs within a few hours of submission.
+*   **Prompt Reviews:** Treat reviewing as a primary task, not an interruption. Aim to review peer PRs within a day of submission.
 *   **Collaborative Resolution:** If a PR has more than 3-4 conflicting comments, stop typing and start talking. Hop on a quick call or pair up in person to resolve the issue immediately.
 
 ### 🤝 Collaborative Ownership (The Stakeholder Model)
