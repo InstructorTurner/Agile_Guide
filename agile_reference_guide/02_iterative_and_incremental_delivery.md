@@ -25,6 +25,7 @@ This section details the mechanics: Iteration (the cycle) and Increment (the del
 *   **Timeboxing:** Always define a fixed, short timebox for each iteration (e.g., 10 days, 2 weeks). This forces focus and prevents limitless scope expansion.
 *   **Goal Setting:** At the start of each iteration, define a single, clear, achievable goal for the team. The increment delivered must achieve this goal.
 *   **Definition of Done (DoD):** Crucial for both types. An item cannot be considered "done" until it meets established quality markers (code reviewed, tested, accepted by the PO, deployed to staging). This prevents shoddy, half-completed increments.
+    *   *For specific examples of a DoD, see the Scrum Guide:* **[07_definitions.md](../scrum_reference_guide/07_definitions.md)**
 
 ***
 

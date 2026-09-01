@@ -11,6 +11,7 @@ The goal of a feedback loop is not just to *collect* opinions; it is to close th
 ### 🛠️ Key Mechanisms for Feedback
 
 #### 1. The Development Level: Short Cycles
+*   **Peer Feedback & Code Reviews:** This is the primary technical feedback loop. Code reviews should be treated as a tool for mentorship and collective ownership, not as a "police check" for bugs. It is a collaborative process to ensure the code adheres to team standards and is understandable by others.
 *   **Pair/Mob Programming:** The quickest form of technical feedback. Instead of three people developing in isolation, they pair up or work in a mob. This forces constant discussion, immediate code review, and shared ownership of the design.
 *   **Frequent Unit & Integration Testing:** Code is considered incomplete until it is rigorously tested. The test cases *are* the technical feedback, ensuring that future changes do not break existing functionality (regression).
 
@@ -21,6 +22,8 @@ The goal of a feedback loop is not just to *collect* opinions; it is to close th
 
 #### 3. The Team/Process Level: Retrospection
 *   **Retrospectives (The Agile Ritual):** This is the formal, dedicated feedback session following an iteration. The goal is **process improvement**, not finger-pointing. Common formats include:
+    *   *See the Scrum implementation of this event:* **[06_retrospective.md](../scrum_reference_guide/06_retrospective.md)**
+    *   **Start, Stop, Continue:** What should we *start* doing? What should we *stop* doing? What should we *continue* doing?
     *   **Start, Stop, Continue:** What should we *start* doing? What should we *stop* doing? What should we *continue* doing?
     *   **Sailboat:** What is powering us (Wind/Stars)? What is slowing us down (Anchor/Drag)?
 *   **Story Mapping:** A visualization technique that helps the team, Product Owner, and Stakeholders discuss the product's user journey from a holistic perspective. It immediately reveals gaps in understanding the user's actual flow.

@@ -7,6 +7,9 @@ In traditional project management, change is viewed as failure—a deviation fro
 ### 🔄 The Agile Mindset Shift
 The transition is from **Prediction** to **Adaptation**.
 
+**💡 For those with Waterfall experience:**
+In traditional project management, a "Plan" is a commitment—a promise of what will be delivered by when. In Agile, a plan is a **hypothesis**. We are essentially saying, "Based on what we know today, we *think* this is the best path to value." When new information arrives, we update the hypothesis. This is not a failure of planning; it is the successful application of intelligence.
+
 *   **Predictive (Waterfall):** Assumes perfect knowledge of the future. High emphasis on comprehensive upfront documentation and change control boards.
 *   **Adaptive (Agile):** Embraces uncertainty. The focus shifts from predicting every detail to creating enough structure (guardrails, process, and people) to pivot gracefully when the inevitable surprises occur.
 

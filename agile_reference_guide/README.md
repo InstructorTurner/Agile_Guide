@@ -15,6 +15,7 @@ This guide is structured to move from high-level philosophy to core mechanisms, 
 *   **[02_iterative_and_incremental_delivery.md]:** Explains the mechanics of iterative cycles and incremental delivery—how work is batched and proven in small, manageable chunks.
 *   **[03_continuous_feedback_loops.md]:** Focuses on the continuous improvement process. This section details the crucial mechanisms for gathering feedback at all levels (Retrospectives, A/B Testing, etc.).
 *   **[04_responding_to_change.md]:** The capstone guide, which focuses on the most Agile skill: how to treat changing requirements as an asset, not a failure.
+*   **[05_agile_anti_patterns.md]:** A guide to recognizing "Agile in Name Only" (AINO) behaviors and how to correct them.
 
 ---
 

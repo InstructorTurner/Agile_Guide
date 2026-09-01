@@ -8,6 +8,8 @@ This guide expands upon the core values of the Agile Manifesto, providing contex
 
 ### 💡 Principle 2: Working Software over Comprehensive Documentation
 **Definition:** The primary measure of progress is *functional code that runs*. While documentation is necessary, excessive documentation that is never updated represents wasted effort.
+
+**Collaboration Note:** "Working software" is not just code that happens to work; it is a **collaborative artifact**. This means code that is readable, maintainable, and has been peer-reviewed. High-quality code is the most honest form of documentation we have.
 **Actionable Tip:** Adopt the "Just Enough Documentation" rule. Only document things that:
 1.  Are legally required.
 2.  Are core architectural decisions that are not obvious (e.g., a complex API interaction).
