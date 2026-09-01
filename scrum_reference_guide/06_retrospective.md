@@ -30,4 +30,4 @@ The meeting must be structured to ensure balanced feedback. Common frameworks in
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./README.md)**
+**[📘 Scrum Fundamentals Reference Guide](./index.md)**

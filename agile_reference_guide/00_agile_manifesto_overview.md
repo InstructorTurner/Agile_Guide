@@ -29,4 +29,4 @@ Agile methodologies are underpinned by the **Agile Manifesto**, created in 2001.
 
 ***
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Agile Fundamentals Reference Guide](./README.md)**
+**[📘 Agile Fundamentals Reference Guide](./index.md)**

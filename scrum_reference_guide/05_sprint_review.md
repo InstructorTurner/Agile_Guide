@@ -25,4 +25,4 @@ This meeting is a live, working demonstration.
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./README.md)**
+**[📘 Scrum Fundamentals Reference Guide](./index.md)**

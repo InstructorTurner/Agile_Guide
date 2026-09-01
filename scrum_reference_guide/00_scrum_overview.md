@@ -45,4 +45,4 @@ Scrum is a team sport. We don't just divide tickets and work in silos; we collab
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./README.md)**
+**[📘 Scrum Fundamentals Reference Guide](./index.md)**

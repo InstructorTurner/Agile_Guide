@@ -32,4 +32,4 @@ When only "Dave" knows how the payment module works. Collective ownership destro
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Extreme Programming Reference Guide](./README.md)**
+**[📘 Extreme Programming Reference Guide](./index.md)**

@@ -22,4 +22,4 @@ title: Definitions
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Extreme Programming Reference Guide](./README.md)**
+**[📘 Extreme Programming Reference Guide](./index.md)**
