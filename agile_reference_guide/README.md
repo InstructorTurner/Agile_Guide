@@ -22,4 +22,5 @@ This guide is structured to move from high-level philosophy to core mechanisms, 
 1.  Start at the Overview (`00_agile_manifesto_overview.md`) to understand the philosophy.
 2.  Move through the sections sequentially to build a complete mental model.
 
-**Next Steps:** Once comfortable with Agile principles, consult the specific framework guides (like the Scrum guide) to learn the specific operational rules.
+***
+*Initial Version by Gemma4:e4b and Pi.  Updates implemented by Steven Turner, Gemma4:31b and OpenCode.*

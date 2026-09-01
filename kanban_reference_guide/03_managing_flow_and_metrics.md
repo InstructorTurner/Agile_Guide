@@ -20,6 +20,11 @@ Flow metrics help us understand the health and predictability of the workflow:
 
 Focusing on these metrics forces team members to look for systemic improvements, rather than just working harder.
 
+**🔄 The Feedback Loop (Kanban Cadences):**
+Metrics are useless unless the team meets to discuss them. In a pure Kanban system, this happens via "Cadences." In our context, these concepts can be integrated into our Scrum events:
+*   **The Daily Sync:** Use the board to identify items with high "age" (stuck in a column too long) and swarm them.
+*   **The Retrospective:** Use Cycle Time and Throughput data as evidence to drive process changes. (e.g., "Our Cycle Time increased by 20% this month; let's investigate why our Review stage is slowing down.")
+
 *   **Visualize the Bottleneck:** If the current average Cycle Time is 10 days, but the metric tracking shows that the review stage adds 4 days on average, the bottleneck is clearly "Review/QA." The immediate, collaborative action is to swarm the bottleneck (e.g., having a developer assist QA temporarily).
 *   **Predictability:** By consistently tracking these metrics, the team moves from delivering work haphazardly to delivering work with a high degree of *confidence*. Stakeholders learn to trust our delivery predictions based on historical data.
 

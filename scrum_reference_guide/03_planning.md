@@ -19,6 +19,8 @@ Sprint Planning is the meeting where we take the top-priority items from the Pro
     *   *Why is this critical?* The Goal keeps the team focused and prevents scope creep mid-sprint.
 2. **The Sprint Backlog:** The set of User Stories and tasks the team commits to completing in this Sprint. This is the detailed plan.
 
+**💡 For those with Waterfall experience:** Think of the Sprint Backlog as a **forecast**, not a rigid contract. While we commit to the *Goal*, the specific tasks used to get there may evolve as we discover more during the Sprint.
+
 ### ⚠️ Mini-Warning: Protecting the Sprint Backlog
 Once the Sprint Planning is complete and the Sprint Goal is set, the scope is highly protected. Adding major, unplanned features during the Sprint requires renegotiation with the Product Owner and consensus from the entire team.
 

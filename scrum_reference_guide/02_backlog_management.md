@@ -24,10 +24,9 @@ Refinement is the ongoing process where the development team and the Product Own
 During refinement, we focus on:
 *   **Elaboration:** Adding enough detail to the User Stories so that a developer can start working without needing immediate clarification.
 *   **Sizing:** The team estimates the story's **size** (using methods like Story Points) to gauge complexity and estimate effort.
+    *   **Why Story Points?** We use *relative sizing* (e.g., "This is a 3, and that is a 5") instead of hours because humans are poor at estimating exact time but great at comparing size. It accounts for uncertainty and complexity without the pressure of a rigid hourly deadline.
 *   **Splitting/Decomposition:** If a story is too large (it requires too many resources or takes longer than a sprint), the team immediately works to split it into smaller, INVEST-compliant stories.
 
----
-*Reminder:* The Product Backlog is sorted by priority. The items at the very top are the ones we aim to build next.
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
 **[📘 Scrum Fundamentals Reference Guide](./README.md)**

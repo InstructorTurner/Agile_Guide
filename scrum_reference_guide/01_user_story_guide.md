@@ -5,6 +5,8 @@
 ## 📖 What is a User Story?
 A User Story is a simple, non-technical description of a feature written from the perspective of the end-user. It captures *value* rather than just technical tasks.
 
+**Crucial Mindset:** A User Story is not a detailed requirement document—it is a **placeholder for a conversation**. The real detail emerges through discussion between the developer, the Product Owner, and the stakeholders.
+
 **The Standard Format:**
 > "As a [Type of User], I want to [Goal], so that [Reason/Benefit]."
 

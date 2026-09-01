@@ -5,6 +5,11 @@
 ## 📃 What is it?
 The DoD is the criteria that marks a User Story as finished and accepted. It is the team’s public commitment to quality. If a story does not meet every point in the DoD, it is **not** "Done" and cannot be counted in the Increment.
 
+**🧠 DoD vs. Acceptance Criteria:**
+It is common to confuse these two. Here is the difference:
+*   **Acceptance Criteria (AC):** Unique to *each story*. (e.g., "The password reset link must expire in 24 hours.")
+*   **Definition of Done (DoD):** Applies to *every story* across the whole product. (e.g., "Code has been peer-reviewed and passed all unit tests.")
+
 **🛑 Why is this crucial?**
 Without a formal DoD, we risk:
 *   *Bugs Slip:* Code that works for the developer but fails in production.

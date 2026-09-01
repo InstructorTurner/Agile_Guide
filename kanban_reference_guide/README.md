@@ -23,3 +23,6 @@ This guide is structured to take you from the high-level concept to the day-to-d
 2.  Move through the sections sequentially to understand the mechanism of flow control.
 
 **Next Steps:** Now that you understand how to manage flow using Kanban, the next logical place for learning is a methodology comparison that shows **when** to use Kanban versus Scrum. This guide will tie everything together!
+
+***
+*Initial Version by Gemma4:e4b and Pi.  Updates implemented by Steven Turner, Gemma4:31b and OpenCode.*

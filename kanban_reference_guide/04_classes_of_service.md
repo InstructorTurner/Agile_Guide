@@ -13,6 +13,12 @@ While specific teams may customize these, most Kanban implementations use a fram
     *   **Flow Impact:** This is typically a break-glass scenario (e.g., a production outage). It *must* jump the queue, often overriding existing WIP commitments.
     *   **Caution:** This category should be used extremely rarely. If it's used often, it indicates systemic instability that needs root-cause analysis.
 
+**⚠️ Avoiding the "Expedite Trap":**
+When an Expedite item enters the flow, the team's instinct is to drop everything. To maintain collaboration and stability:
+*   **Dedicated Resource:** If possible, assign one person to the emergency while others maintain the current WIP limits for Standard work.
+*   **Transparent Communication:** Immediately notify the team and PO that "Standard" work will slow down because of the Expedite item.
+*   **Post-Emergency Review:** Always discuss Expedite items in the next Retrospective to prevent them from becoming the "new normal."
+
 2.  **Fixed Date (The Commitment):**
     *   **Definition:** Work tied to a non-negotiable external deadline (e.g., a legal filing, a press launch date).
     *   **Flow Impact:** The team must work backward from this date, ensuring all necessary steps are completed *before* the hard stop date.

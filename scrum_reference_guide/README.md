@@ -26,4 +26,4 @@ This guide is broken down into functional modules.
     * [07_definitions.md](./07_definitions.md): Understanding 'Done' and preventing scope creep.
 
 ***
-*Initial Version by Gemma4:e4b and Pi.*
+*Initial Version by Gemma4:e4b and Pi.  Updates implemented by Steven Turner, Gemma4:31b and OpenCode.*
