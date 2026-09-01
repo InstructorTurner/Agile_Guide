@@ -1,5 +1,4 @@
 ---
-collection: guides
 layout: page
 title: Limiting Wip
 ---

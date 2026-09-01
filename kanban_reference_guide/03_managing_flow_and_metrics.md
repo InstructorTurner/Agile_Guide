@@ -1,5 +1,4 @@
 ---
-collection: guides
 layout: page
 title: Managing Flow And Metrics
 ---

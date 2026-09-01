@@ -1,5 +1,4 @@
 ---
-collection: guides
 layout: page
 title: The Pull Request Process
 ---
