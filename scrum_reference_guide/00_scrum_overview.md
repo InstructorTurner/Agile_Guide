@@ -31,9 +31,6 @@ Scrum is the *framework* (the set of rules and roles) we use to implement the Ag
 #### ✅ Best Practice: Building Vertical Slices
 **Problem:** Developing a full layer of code horizontally (e.g., finishing all the database setup, then all the backend logic, then all the front-end styling). This leads to large, untested chunks of code that don't prove end-to-end value.
 
-[TODO]
-[IMAGE PLACEHOLDER: Diagram showing Horizontal Layers vs. Vertical Slices]
-
 **Rule:** When tackling a feature, focus on delivering a **Vertical Slice**.
 *   **Definition:** A vertical slice is a minimal, end-to-end package that takes a feature from the user interface, through the necessary business logic, and into the database.
 *   **Benefit:** This proves that the feature works *in the hands of a user* and provides immediate, tangible value that stakeholders can see and test.
@@ -45,4 +42,4 @@ Scrum is a team sport. We don't just divide tickets and work in silos; we collab
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./README.md)**
+**[📘 Scrum Fundamentals Reference Guide](./index.md)**

@@ -36,4 +36,4 @@ This guide expands upon the core values of the Agile Manifesto, providing contex
 
 ***
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Agile Fundamentals Reference Guide](./README.md)**
+**[📘 Agile Fundamentals Reference Guide](./index.md)**

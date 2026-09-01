@@ -31,4 +31,4 @@ The DoD acts as a quality gate that helps manage scope creep. If we believe a st
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./README.md)**
+**[📘 Scrum Fundamentals Reference Guide](./index.md)**

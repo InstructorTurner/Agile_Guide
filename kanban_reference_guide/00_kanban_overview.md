@@ -26,4 +26,4 @@ Even in a Scrum environment, Kanban concepts—like **limiting WIP** and **ident
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Kanban Reference Guide](./README.md)**
+**[📘 Kanban Reference Guide](./index.md)**

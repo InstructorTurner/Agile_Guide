@@ -27,4 +27,4 @@ If you are ever unsure which "rule" to follow, remember this:
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Extreme Programming Reference Guide](./README.md)**
+**[📘 Extreme Programming Reference Guide](./index.md)**
