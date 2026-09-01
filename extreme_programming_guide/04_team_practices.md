@@ -30,4 +30,4 @@ A shared, written agreement on how the code should look and feel.
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Extreme Programming Reference Guide](./index.md)**
+**[📘 Extreme Programming Reference Guide](./README.md)**

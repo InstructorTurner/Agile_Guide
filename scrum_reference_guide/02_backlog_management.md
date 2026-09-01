@@ -34,4 +34,4 @@ During refinement, we focus on:
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./index.md)**
+**[📘 Scrum Fundamentals Reference Guide](./README.md)**

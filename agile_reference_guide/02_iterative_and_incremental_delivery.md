@@ -40,4 +40,4 @@ This section details the mechanics: Iteration (the cycle) and Increment (the del
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Agile Fundamentals Reference Guide](./index.md)**
+**[📘 Agile Fundamentals Reference Guide](./README.md)**

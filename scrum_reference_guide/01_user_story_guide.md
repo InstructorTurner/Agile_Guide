@@ -49,4 +49,4 @@ By keeping each slice small, we deliver functional value faster and reduce risk.
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./index.md)**
+**[📘 Scrum Fundamentals Reference Guide](./README.md)**

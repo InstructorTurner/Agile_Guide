@@ -31,4 +31,4 @@ Once the Sprint Planning is complete and the Sprint Goal is set, the scope is hi
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./index.md)**
+**[📘 Scrum Fundamentals Reference Guide](./README.md)**

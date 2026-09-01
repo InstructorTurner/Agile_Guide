@@ -26,4 +26,4 @@ Each team member should briefly answer:
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Scrum Fundamentals Reference Guide](./index.md)**
+**[📘 Scrum Fundamentals Reference Guide](./README.md)**

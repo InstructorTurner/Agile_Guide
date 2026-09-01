@@ -35,4 +35,4 @@ Think of XP as a "technical power-up" for Scrum. Scrum gives us the Sprints and 
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
-**[📘 Extreme Programming Reference Guide](./index.md)**
+**[📘 Extreme Programming Reference Guide](./README.md)**
