@@ -6,13 +6,5 @@ plugins:
 
 # Navigation menu
 nav:
-  - title: Agile Guide
-    url: /agile_reference_guide/
-  - title: Scrum Guide
-    url: /scrum_reference_guide/
-  - title: Kanban Guide
-    url: /kanban_reference_guide/
-  - title: XP Guide
-    url: /extreme_programming_guide/
-  - title: Git Guide
-    url: /git_reference_guide/
+  - title: Guides
+    url: /
