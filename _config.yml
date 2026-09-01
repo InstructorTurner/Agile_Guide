@@ -5,13 +5,3 @@ plugins:
   - jekyll-feed
 
 baseurl: "/Agile_Guide"
-
-# Navigation menu
-nav:
-  - title: Guides
-    url: /Agile_Guide/
-
-collections:
-  guides:
-    output: true
-    permalink: /guides/:path
