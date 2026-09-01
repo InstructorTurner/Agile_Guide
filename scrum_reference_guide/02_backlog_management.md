@@ -1,3 +1,8 @@
+---
+layout: page
+title: Backlog Management
+---
+
 # 02: Product Backlog Management - Prioritizing Value
 
 **Goal:** To define the Product Backlog as the single, authoritative source for *all* desired features and improvements for the product.

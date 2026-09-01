@@ -1,3 +1,8 @@
+---
+layout: page
+title: Iterative And Incremental Delivery
+---
+
 ## Iterative and Incremental Delivery
 
 A core concept that distinguishes Agile development is the idea that work should be broken down into small, manageable cycles. We don't try to build the entire house in one go; we build the foundation, then the first floor, then the roof, testing and refining as we go.

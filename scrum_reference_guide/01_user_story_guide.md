@@ -1,3 +1,8 @@
+---
+layout: page
+title: User Story Guide
+---
+
 # 🧩 01: User Story Guides - Defining the Value
 
 **Goal:** To explain what a User Story is, how to write high-quality ones, and critically, how to structure them to enforce 'vertical slices.'

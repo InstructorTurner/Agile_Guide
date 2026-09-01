@@ -1,3 +1,8 @@
+---
+layout: page
+title: Retrospective
+---
+
 # 🔄 06: Sprint Retrospective - How We Get Better
 
 **Goal:** To create a safe, blame-free space for the team to inspect *our process* and identify improvements for the next Sprint.

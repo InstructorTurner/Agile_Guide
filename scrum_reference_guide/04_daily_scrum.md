@@ -1,3 +1,8 @@
+---
+layout: page
+title: Daily Scrum
+---
+
 # 🧍‍♂️ 04: Daily Scrum (Standup) - Synchronization and Impediments
 
 **Goal:** A fast, time-boxed daily meeting (15 minutes absolute maximum) to synchronize the team, review progress toward the Sprint Goal, and identify roadblocks.

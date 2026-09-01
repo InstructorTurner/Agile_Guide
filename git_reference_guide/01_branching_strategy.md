@@ -1,3 +1,8 @@
+---
+layout: page
+title: Branching Strategy
+---
+
 ## Short-Lived Feature Branches
 
 In an agile environment, branching strategy is not about protecting code; it's about *managing integration*. To maintain high velocity and reduce the risk of massive merge conflicts, we use a **Short-Lived Feature Branch** model.

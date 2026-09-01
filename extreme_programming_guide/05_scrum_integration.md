@@ -1,3 +1,8 @@
+---
+layout: page
+title: Scrum Integration
+---
+
 # 🔄 05: Scrum Integration - The Hybrid Approach
 
 **Goal:** To map specific XP technical practices directly onto the Scrum ceremonies we already use.

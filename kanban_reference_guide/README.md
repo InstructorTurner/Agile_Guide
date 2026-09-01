@@ -1,3 +1,8 @@
+---
+layout: page
+title: Kanban Reference Guide
+---
+
 # Kanban Reference Guide
 
 Welcome! This guide provides junior developers with a deep understanding of the Kanban methodology.
@@ -10,11 +15,11 @@ Welcome! This guide provides junior developers with a deep understanding of the 
 
 This guide is structured to take you from the high-level concept to the day-to-day rules governing work flow.
 
-*   **[00_kanban_overview.md]** (Recommended Starting Point): An introduction to Kanban, defining flow and contrasting it with time-boxed approaches like Scrum.
-*   **[01_the_kanban_board.md]:** Details the physical/visual board and defines the necessary workflow *states* (columns) that every item must pass through.
-*   **[02_limiting_wip.md]:** The most crucial mechanism. This section explains Work In Progress (WIP) Limits, which force the team to focus and resolve bottlenecks before starting new work.
-*   **[03_managing_flow_and_metrics.md]:** Introduces how teams measure progress by tracking cycle time and throughput, allowing the team to predict and improve reliability.
-*   **[04_classes_of_service.md]:** Provides strategic context for the incoming work. This helps the team classify tasks (Emergency, Fixed Date, Standard) to determine the appropriate flow management.
+*   **[Kanban Overview](00_kanban_overview.md)** (Recommended Starting Point): An introduction to Kanban, defining flow and contrasting it with time-boxed approaches like Scrum.
+*   **[The Kanban Board](01_the_kanban_board.md):** Details the physical/visual board and defines the necessary workflow *states* (columns) that every item must pass through.
+*   **[Limiting Wip](02_limiting_wip.md):** The most crucial mechanism. This section explains Work In Progress (WIP) Limits, which force the team to focus and resolve bottlenecks before starting new work.
+*   **[Managing Flow And Metrics](03_managing_flow_and_metrics.md):** Introduces how teams measure progress by tracking cycle time and throughput, allowing the team to predict and improve reliability.
+*   **[Classes Of Service](04_classes_of_service.md):** Provides strategic context for the incoming work. This helps the team classify tasks (Emergency, Fixed Date, Standard) to determine the appropriate flow management.
 
 ---
 

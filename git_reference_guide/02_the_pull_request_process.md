@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Pull Request Process
+---
+
 ## Best Practices for Code Review and Validation
 
 The Pull Request (PR) submission and review cycle is the technical manifestation of the Agile principle: **Collective Code Ownership.** Every developer's code is reviewed by the team, and every review strengthens the entire team.

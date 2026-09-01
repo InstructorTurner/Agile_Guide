@@ -1,3 +1,8 @@
+---
+layout: page
+title: Git Reference Guide
+---
+
 # 🛠️ Git Best Practices Reference Guide
 
 Welcome! This handbook is designed as a quick-reference guide for team members to manage source code collaboratively. It focuses on high-frequency integration, reducing merge friction, and embracing collective code ownership.
@@ -14,13 +19,13 @@ Welcome! This handbook is designed as a quick-reference guide for team members t
 This guide is broken down into functional modules.
 
 1. **🚀 The Philosophy:**
-    * [00_git_workflow_overview.md](./00_git_workflow_overview.md): Our approach to Continuous Integration, Vertical Slices, and Collaborative Development (Pairing/Mobbing).
+    * [Git Workflow Overview](00_git_workflow_overview.md)(./00_git_workflow_overview.md): Our approach to Continuous Integration, Vertical Slices, and Collaborative Development (Pairing/Mobbing).
 2. **🌳 Branching Strategy:**
-    * [01_branching_strategy.md](./01_branching_strategy.md): How to use short-lived feature branches to keep the `develop` branch healthy.
+    * [Branching Strategy](01_branching_strategy.md)(./01_branching_strategy.md): How to use short-lived feature branches to keep the `develop` branch healthy.
 3. **🤝 The Integration Gate:**
-    * [02_the_pull_request_process.md](./02_the_pull_request_process.md): How to conduct high-value peer reviews and avoid rubber-stamping.
+    * [The Pull Request Process](02_the_pull_request_process.md)(./02_the_pull_request_process.md): How to conduct high-value peer reviews and avoid rubber-stamping.
 4. **🧼 Personal Discipline:**
-    * [03_daily_git_hygiene.md](./03_daily_git_hygiene.md): Daily rituals for atomic commits, stashing, and frequent syncing.
+    * [Daily Git Hygiene](03_daily_git_hygiene.md)(./03_daily_git_hygiene.md): Daily rituals for atomic commits, stashing, and frequent syncing.
 
 ***
 *Updates implemented by gemma4:e4b, gemma4:31b, pi, Steven Turner and OpenCode.*

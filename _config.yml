@@ -1,0 +1,18 @@
+title: Junior Developer Workflow Reference Guide
+description: A comprehensive guide to industry best practices for Agile, Scrum, Kanban, XP, and Git.
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Navigation menu
+nav:
+  - title: Agile Guide
+    url: /agile_reference_guide/
+  - title: Scrum Guide
+    url: /scrum_reference_guide/
+  - title: Kanban Guide
+    url: /kanban_reference_guide/
+  - title: XP Guide
+    url: /extreme_programming_guide/
+  - title: Git Guide
+    url: /git_reference_guide/

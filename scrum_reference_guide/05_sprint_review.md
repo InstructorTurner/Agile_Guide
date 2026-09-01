@@ -1,3 +1,8 @@
+---
+layout: page
+title: Sprint Review
+---
+
 # 📊 05: Sprint Review - Showing the Value
 
 **Goal:** To demonstrate to stakeholders and the Product Owner what we have *completed* during the Sprint, gather feedback, and adjust the Product Backlog accordingly.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Scrum Overview
+---
+
 # 🧭 00: Scrum Overview - The Foundation
 
 **Goal:** To provide a clear, jargon-free understanding of what Scrum is, what Agile means, and the mindset we need to adopt as a development team.

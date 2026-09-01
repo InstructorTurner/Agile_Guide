@@ -1,3 +1,8 @@
+---
+layout: page
+title: Managing Flow And Metrics
+---
+
 ## Managing Flow and Metrics (Kanban)
 
 While the Kanban board shows *where* work is, this section explains *how fast* the work moves and *how well* the team is performing. By tracking key metrics, teams move away from gut feeling and towards data-driven process improvement. This knowledge is crucial for collaborative management, as it allows everyone to understand the team's current rhythm.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: Git Workflow Overview
+---
+
 # Git Best Practices for Agile Teams
 
 This guide provides foundational best practices for managing source code collaboratively in an Agile environment. Git is powerful, but without consistent, clean habits, it can become a source of significant technical debt and friction.

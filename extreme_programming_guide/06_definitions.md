@@ -1,3 +1,8 @@
+---
+layout: page
+title: Definitions
+---
+
 # 📖 06: Definitions - The XP Glossary
 
 **Goal:** A quick-reference guide to the terminology used throughout the Extreme Programming framework.

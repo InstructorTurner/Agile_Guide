@@ -1,3 +1,8 @@
+---
+layout: page
+title: The Kanban Board
+---
+
 ## The Conceptual Kanban Board
 
 The Kanban board is the single most important artifact in the Kanban system. It is a physical or digital visual representation of the entire workflow that an item (a User Story, a task, a bug fix) goes through from conception to completion.

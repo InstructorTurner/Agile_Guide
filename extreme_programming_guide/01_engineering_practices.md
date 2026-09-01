@@ -1,3 +1,8 @@
+---
+layout: page
+title: Engineering Practices
+---
+
 # 🛠️ 01: Engineering Practices - Building Quality In
 
 **Goal:** To introduce the technical habits that prevent bugs and keep the codebase maintainable over the long term.

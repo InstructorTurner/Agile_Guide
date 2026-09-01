@@ -1,3 +1,8 @@
+---
+layout: page
+title: Classes Of Service
+---
+
 ## Classes of Service (CoS)
 
 When managing flow, not all incoming work is created equal. A small bug fix might be vital, while a new feature might be helpful, and a compliance requirement might be mandatory. Kanban addresses this by defining **Classes of Service (CoS)**.

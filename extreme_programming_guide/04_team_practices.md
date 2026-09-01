@@ -1,3 +1,8 @@
+---
+layout: page
+title: Team Practices
+---
+
 # 👥 04: Team Practices - The Human Element
 
 **Goal:** To create a sustainable, collaborative environment where developers can do their best work without burning out.

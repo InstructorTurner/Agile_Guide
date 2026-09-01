@@ -1,3 +1,8 @@
+---
+layout: page
+title: Xp Overview
+---
+
 # 🚀 00: XP Overview - The Philosophy of Excellence
 
 **Goal:** To provide a clear, high-level understanding of Extreme Programming (XP), its core values, and how it complements our use of Scrum.

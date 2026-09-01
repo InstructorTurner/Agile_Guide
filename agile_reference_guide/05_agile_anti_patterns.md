@@ -1,3 +1,8 @@
+---
+layout: page
+title: Agile Anti Patterns
+---
+
 # 🚩 05: Agile Anti-Patterns - Warning Signs
 
 **Goal:** To help junior developers recognize "Agile in Name Only" (AINO) behaviors. Recognizing these anti-patterns early allows the team to address them during Retrospectives and return to true Agile values.

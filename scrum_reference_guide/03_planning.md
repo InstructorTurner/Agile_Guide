@@ -1,3 +1,8 @@
+---
+layout: page
+title: Planning
+---
+
 # 🗓️ 03: Sprint Planning - Defining the Mission
 
 **Goal:** To ensure the whole team understands the objective and commits to a defined, achievable set of work for the upcoming timebox (the Sprint).

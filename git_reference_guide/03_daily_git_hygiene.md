@@ -1,3 +1,8 @@
+---
+layout: page
+title: Daily Git Hygiene
+---
+
 ## Daily Git Hygiene: Personal Workflow Discipline
 
 This section is about the personal habits—the day-to-day workflow rituals—that keep the developer productive, stress-free, and your code clean. Strong git discipline prevents small issues from escalating into massive, painful merge conflicts.

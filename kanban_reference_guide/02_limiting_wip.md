@@ -1,3 +1,8 @@
+---
+layout: page
+title: Limiting Wip
+---
+
 ## Limiting Work In Progress (WIP)
 
 If the Kanban board shows *where* work is, then setting Work In Progress (WIP) Limits tells the team *how much* work they should be focusing on right now. This is arguably the single most important concept in Kanban.

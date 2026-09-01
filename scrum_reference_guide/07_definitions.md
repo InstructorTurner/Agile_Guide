@@ -1,3 +1,8 @@
+---
+layout: page
+title: Definitions
+---
+
 # ✅ 07: Definition of Done (DoD) - Our Quality Promise
 
 **Goal:** To establish a shared, non-negotiable checklist that ALL completed work must pass to be considered "Done." This prevents incompleteness and hidden technical debt.

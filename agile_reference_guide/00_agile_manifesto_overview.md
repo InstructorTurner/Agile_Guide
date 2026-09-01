@@ -1,3 +1,8 @@
+---
+layout: page
+title: Agile Manifesto Overview
+---
+
 ## Agile Manifesto Overview
 
 This guide serves as a foundational resource detailing the core principles and practices of Agile methodologies. While other frameworks (like Scrum and Kanban) provide specific rulesets, Agile is the underlying philosophy—a mindset shift—that guides how we build software and deliver value.

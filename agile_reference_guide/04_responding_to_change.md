@@ -1,3 +1,8 @@
+---
+layout: page
+title: Responding To Change
+---
+
 ## Responding to Change
 
 One of the most counter-intuitive, yet most valuable, principles of Agile is this: **The ability to change is not a risk that must be mitigated; it is a capability that provides opportunity.**

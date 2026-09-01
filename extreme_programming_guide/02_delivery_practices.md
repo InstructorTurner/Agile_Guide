@@ -1,3 +1,8 @@
+---
+layout: page
+title: Delivery Practices
+---
+
 # 📦 02: Delivery Practices - Shipping with Confidence
 
 **Goal:** To move software from a developer's machine to the user as quickly and safely as possible.

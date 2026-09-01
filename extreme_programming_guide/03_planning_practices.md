@@ -1,3 +1,8 @@
+---
+layout: page
+title: Planning Practices
+---
+
 # 🗓️ 03: Planning Practices - Aligning Value and Effort
 
 **Goal:** To ensure the team is building the highest-value features with the least amount of waste.

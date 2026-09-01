@@ -1,3 +1,8 @@
+---
+layout: page
+title: Agile Principles Deep Dive
+---
+
 ## Agile Manifesto Principles Deep Dive
 
 This guide expands upon the core values of the Agile Manifesto, providing context and actionable guidance for applying these principles in day-to-day development. Remember, Agile is a set of values and beliefs, not a prescriptive checklist.

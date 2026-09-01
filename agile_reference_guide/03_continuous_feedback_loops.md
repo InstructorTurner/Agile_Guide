@@ -1,3 +1,8 @@
+---
+layout: page
+title: Continuous Feedback Loops
+---
+
 ## Continuous Feedback Loops
 
 Feedback is the oxygen of Agile. Without structured, continuous feedback, even the best-intentioned project will drift, fail to meet user needs, or build flawed architecture. This guide details the mechanisms for gathering, analyzing, and acting on feedback at all levels—from the micro-interaction to the macro-project level.

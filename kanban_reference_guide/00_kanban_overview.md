@@ -1,3 +1,8 @@
+---
+layout: page
+title: Kanban Overview
+---
+
 # 🧭 00: Kanban Overview - The Philosophy of Flow
 
 **Goal:** To introduce the core philosophy of Kanban and explain how its focus on "flow" differs from the "time-boxed" approach of Scrum.

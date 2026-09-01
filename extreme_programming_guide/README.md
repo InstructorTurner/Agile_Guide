@@ -1,3 +1,8 @@
+---
+layout: page
+title: Extreme Programming Guide
+---
+
 # 🚀 Extreme Programming (XP) Reference Guide
 
 **Goal:** To provide junior developers with a broad, shallow dive into Extreme Programming (XP) practices, demonstrating how these technical "power-ups" complement the Scrum framework to improve code quality and team agility.
