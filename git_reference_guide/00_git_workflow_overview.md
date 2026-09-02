@@ -22,7 +22,7 @@ This guide provides foundational best practices for managing source code collabo
 Instead of rigid silos where developers "own" specific layers (e.g., "only I touch the backend"), we embrace **Continuous Integration**.
 
 **Embracing Vertical Slices**
-To avoid merge conflicts, we don't divide work by technical layer; we divide it by **Vertical Slices**. A vertical slice is a small, functional piece of a feature that touches all layers (UI $\rightarrow$ API $\rightarrow$ Database). By merging these slices quickly, you ensure that no one "owns" a file for too long, and conflicts are handled while they are still small and manageable.
+To avoid merge conflicts, we don't divide work by technical layer; we divide it by **Vertical Slices**. A vertical slice is a small, functional piece of a feature that touches all layers (UI -> API -> Database). By merging these slices quickly, you ensure that no one "owns" a file for too long, and conflicts are handled while they are still small and manageable.
 
 **Collaborative Development: Pairing and Mobbing**
 Working on deep vertical slices can be challenging. We encourage:

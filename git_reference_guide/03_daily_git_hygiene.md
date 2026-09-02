@@ -30,5 +30,7 @@ This habit is the glue that holds the Short-Lived Branch model together.
     2.  Before you start a new slice: `git pull`
     3.  Before you open a PR: `git pull`
 *   **Check for Conflicts Early:** If you pull and see conflicts, stop! This is your **integration signal**. It means a teammate is working in the same area. Solving a 2-line conflict now is orders of magnitude easier than solving a 200-line conflict on Friday afternoon.
+
 ***
+
 **Key Takeaway:** Git hygiene is discipline. By treating your local repository like a pristine, clean workspace, you keep the complexity of development confined to the code itself, not to the history management.

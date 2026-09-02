@@ -13,9 +13,9 @@ Extreme Programming is an agile software development framework designed to impro
 While Scrum provides the *management* framework (the "what" and "when"), XP provides the *technical* framework (the "how"). XP takes beneficial software engineering practices and pushes them to "extreme" levels.
 
 **The Logic of "Extreme":**
-- If code reviews are good $\rightarrow$ We do them all the time (**Pair Programming**).
-- If testing is good $\rightarrow$ We test all the time (**TDD**).
-- If integration is good $\rightarrow$ We integrate all the time (**CI**).
+- If code reviews are good -> We do them all the time (**Pair Programming**).
+- If testing is good -> We test all the time (**TDD**).
+- If integration is good -> We integrate all the time (**CI**).
 
 ## ⚛️ The Core Values
 XP is built on five pillars that guide every decision the team makes:
@@ -30,8 +30,8 @@ XP is built on five pillars that guide every decision the team makes:
 Think of XP as a "technical power-up" for Scrum. Scrum gives us the Sprints and the Backlog; XP gives us the tools to ensure the code inside those Sprints is world-class.
 
 **The Hybrid Mindset:**
-- **Scrum** $\rightarrow$ Organizational agility (Planning & Cadence).
-- **XP** $\rightarrow$ Technical agility (Execution & Quality).
+- **Scrum** -> Organizational agility (Planning & Cadence).
+- **XP** -> Technical agility (Execution & Quality).
 
 ---
 *🔗 Context: Find your place in the overall curriculum here.*

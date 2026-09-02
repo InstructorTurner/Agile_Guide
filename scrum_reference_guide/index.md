@@ -28,7 +28,7 @@ This guide is broken down into functional modules.
     * [Sprint Review](05_sprint_review.md)(./05_sprint_review.md): Demonstrating the "Done" product to stakeholders.
     * [Retrospective](06_retrospective.md)(./06_retrospective.md): How we improve *our process*.
 4. **✅ Standards and Quality:**
-    * [Definitions](07_definitions.md)(./07_definitions.md): Understanding 'Done' and preventing scope creep.
+    * [Definition fo Done and Acceptance Criteria](07_definitions.md)(./07_definitions.md): Understanding 'Done' and preventing scope creep.
 
 ***
 *Initial Version by Gemma4:e4b and Pi.  Updates implemented by Steven Turner, Gemma4:31b and OpenCode.*

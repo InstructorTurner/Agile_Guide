@@ -26,13 +26,10 @@ Scrum is the *framework* (the set of rules and roles) we use to implement the Ag
 
 #### 🛑 Anti-Pattern Alert 1: Limiting Work In Progress (WIP)
 **Problem:** Trying to work on too many features or tasks at once. This is like spreading yourself too thin—nothing gets done efficiently.
-**Rule:** Only pull tasks into active development only when the previous task is **done**. Focus on finishing a small set of items (e.g., 3-5 user stories) completely before starting anything new.
+**Rule:** Only pull tasks into active development only when the previous task is **done**. Focus on finishing a small set of items completely before starting anything new.
 
 #### ✅ Best Practice: Building Vertical Slices
 **Problem:** Developing a full layer of code horizontally (e.g., finishing all the database setup, then all the backend logic, then all the front-end styling). This leads to large, untested chunks of code that don't prove end-to-end value.
-
-[TODO]
-[IMAGE PLACEHOLDER: Diagram showing Horizontal Layers vs. Vertical Slices]
 
 **Rule:** When tackling a feature, focus on delivering a **Vertical Slice**.
 *   **Definition:** A vertical slice is a minimal, end-to-end package that takes a feature from the user interface, through the necessary business logic, and into the database.

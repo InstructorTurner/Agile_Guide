@@ -10,8 +10,8 @@ Feedback is the oxygen of Agile. Without structured, continuous feedback, even t
 ### 🔄 The Principle: Closure and Iteration
 The goal of a feedback loop is not just to *collect* opinions; it is to close the loop by having those opinions directly inform the *next* action.
 
-**Poor Feedback Cycle:** Ideas $\rightarrow$ Development $\rightarrow$ Testing $\rightarrow$ Report Findings (Stops there).
-**Good Feedback Cycle:** Ideas $\rightarrow$ Development $\rightarrow$ Feedback (Early) $\rightarrow$ **Adapt Action** $\rightarrow$ Development (New Cycle).
+**Poor Feedback Cycle:** Ideas -> Development -> Testing -> Report Findings (Stops there).
+**Good Feedback Cycle:** Ideas -> Development -> Feedback (Early) -> **Adapt Action** -> Development (New Cycle).
 
 ### 🛠️ Key Mechanisms for Feedback
 
@@ -28,7 +28,6 @@ The goal of a feedback loop is not just to *collect* opinions; it is to close th
 #### 3. The Team/Process Level: Retrospection
 *   **Retrospectives (The Agile Ritual):** This is the formal, dedicated feedback session following an iteration. The goal is **process improvement**, not finger-pointing. Common formats include:
     *   *See the Scrum implementation of this event:* **[06_retrospective.md](../scrum_reference_guide/06_retrospective.md)**
-    *   **Start, Stop, Continue:** What should we *start* doing? What should we *stop* doing? What should we *continue* doing?
     *   **Start, Stop, Continue:** What should we *start* doing? What should we *stop* doing? What should we *continue* doing?
     *   **Sailboat:** What is powering us (Wind/Stars)? What is slowing us down (Anchor/Drag)?
 *   **Story Mapping:** A visualization technique that helps the team, Product Owner, and Stakeholders discuss the product's user journey from a holistic perspective. It immediately reveals gaps in understanding the user's actual flow.

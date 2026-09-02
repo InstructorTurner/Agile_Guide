@@ -11,7 +11,7 @@ title: Delivery Practices
 **What it is:** The practice of merging all developer working copies to a shared mainline several times a day.
 
 **The CI Pipeline:**
-`Code $\rightarrow$ Commit $\rightarrow$ Automated Build $\rightarrow$ Automated Tests $\rightarrow$ Deployment`
+`Code -> Commit -> Automated Build -> Automated Tests -> Deployment`
 
 **✅ Best Practice:** If the build breaks, fixing it is the **#1 priority** for the entire team. A broken build is a "stop-the-line" event.
 
