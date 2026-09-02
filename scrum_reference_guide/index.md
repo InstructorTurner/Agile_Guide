@@ -29,6 +29,9 @@ This guide is broken down into functional modules.
     * [Retrospective](06_retrospective.md)(./06_retrospective.md): How we improve *our process*.
 4. **✅ Standards and Quality:**
     * [Definition fo Done and Acceptance Criteria](07_definitions.md)(./07_definitions.md): Understanding 'Done' and preventing scope creep.
+5. **📊 Estimation and Flow:**
+    * [Story Pointing](08_story_pointing.md)(./08_story_pointing.md): Sizing work and tracking velocity.
+    * [Board Management](09_board_management.md)(./09_board_management.md): Visualizing flow and avoiding bottlenecks.
 
 ***
 *Initial Version by Gemma4:e4b and Pi.  Updates implemented by Steven Turner, Gemma4:31b and OpenCode.*
