@@ -32,6 +32,31 @@ During refinement, we focus on:
     *   **Why Story Points?** We use *relative sizing* (e.g., "This is a 3, and that is a 5") instead of hours because humans are poor at estimating exact time but great at comparing size. It accounts for uncertainty and complexity without the pressure of a rigid hourly deadline.
 *   **Splitting/Decomposition:** If a story is too large (it requires too many resources or takes longer than a sprint), the team immediately works to split it into smaller, INVEST-compliant stories.
 
+## 📖 Narrative Examples
+
+### Example 1: The Evolution of a Feature (Epic -> Story)
+To see how the backlog transforms from a "wishlist" to "ready" work, follow the evolution of a single feature:
+
+1.  **Initial Idea (The "Wish"):** "We need user profiles." (Too vague, stays at the bottom of the backlog).
+2.  **Refined Epic (The "Goal"):** "As a registered user, I want to manage my profile information so that my account details remain current." (Better, but still too large for one sprint).
+3.  **Split Stories (The "Execution"):** The team splits the Epic into smaller, deliverable slices:
+    *   *Story A:* "As a user, I want to upload a profile picture." (Estimated: 3 points)
+    *   *Story B:* "As a user, I want to edit my email and password." (Estimated: 5 points)
+    *   *Story C:* "As a user, I want to set my notification preferences." (Estimated: 2 points)
+
+**Result:** The PO can now prioritize Story B (critical for security) over Story A (cosmetic), delivering value faster.
+
+### Example 2: A Refinement Session in Action
+Imagine a conversation between a Product Owner (PO) and the Development Team:
+
+**PO:** "Next up is 'Implement Social Login.' I want users to be able to sign in with Google or GitHub."
+**Dev:** "Is this just for new accounts, or should existing users be able to link their accounts too?" (**Elaboration**)
+**PO:** "Great point. Let's start with just new accounts for the MVP."
+**Dev:** "Even for just new accounts, doing both Google and GitHub might be too much for one sprint. Let's split these into two separate stories." (**Splitting**)
+**PO:** "Agreed. Let's do Google first."
+**Dev:** "Compared to the Email Login we did last month (which was a 3), Google Login feels slightly more complex due to the OAuth setup. Let's call this a 5." (**Sizing**)
+
+
 ---
 *🔗 Context: Find your place in the overall curriculum here.*
 **[📘 Scrum Fundamentals Reference Guide](./index.md)**
