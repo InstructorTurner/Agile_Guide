@@ -20,6 +20,7 @@ This guide is broken down into functional modules.
 1. **🚀 Core Concepts:**
     * [Scrum Overview](00_scrum_overview.md)(./00_scrum_overview.md): What is Agile and Scrum? Learn the fundamental vocabulary.
     * [User Story Guide](01_user_story_guide.md)(./01_user_story_guide.md): How to write good, valuable, and small stories. *Crucial for delivering value quickly!*
+    * [Scrum Roles](10_scrum_roles.md)(./10_scrum_roles.md): Understanding the responsibilities of the PO, Scrum Master, Developers, and Stakeholders.
 2. **📦 Artifact Management:**
     * [Backlog Management](02_backlog_management.md)(./02_backlog_management.md): Managing the overarching list of features and ideas.
 3. **🔄 The Sprint Cycle (The "How"):**
