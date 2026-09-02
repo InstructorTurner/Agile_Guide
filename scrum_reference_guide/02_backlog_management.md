@@ -50,10 +50,15 @@ To see how the backlog transforms from a "wishlist" to "ready" work, follow the 
 Imagine a conversation between a Product Owner (PO) and the Development Team:
 
 **PO:** "Next up is 'Implement Social Login.' I want users to be able to sign in with Google or GitHub."
+
 **Dev:** "Is this just for new accounts, or should existing users be able to link their accounts too?" (**Elaboration**)
+
 **PO:** "Great point. Let's start with just new accounts for the MVP."
+
 **Dev:** "Even for just new accounts, doing both Google and GitHub might be too much for one sprint. Let's split these into two separate stories." (**Splitting**)
+
 **PO:** "Agreed. Let's do Google first."
+
 **Dev:** "Compared to the Email Login we did last month (which was a 3), Google Login feels slightly more complex due to the OAuth setup. Let's call this a 5." (**Sizing**)
 
 
