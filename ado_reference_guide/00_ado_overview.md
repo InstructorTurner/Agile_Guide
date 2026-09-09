@@ -30,3 +30,7 @@ Key areas you will use:
 Imagine you start your day. You first navigate to **Boards > Sprints** to see your assigned tasks for the current sprint. You find a task called "Implement Login Validation." 
 
 Once you understand the requirements, you move over to **Repos > Files** to create a new branch. After writing your code, you go to **Repos > Pull Requests** to submit your changes for review, making sure to link the "Implement Login Validation" work item so your teammates know exactly which task this code satisfies.
+
+---
+[⬅️ Back to ADO Index](index.md)
+

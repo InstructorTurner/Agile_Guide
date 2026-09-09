@@ -35,3 +35,18 @@ Once your code is complete and tested:
 Imagine a bug is discovered in production. The lead developer looks at the code and sees a change made three months ago. Because you linked your PR to a Work Item, they can click the link and immediately find the original User Story: "Fix edge case for international phone numbers."
 
 Without that link, the commit is a "mystery commit," and the lead would have to spend an hour guessing why the change was made.
+
+## ⚙️ Pro Tip: PR Policies and Merge Blocks
+
+When you attempt to complete a PR, you may see warnings or buttons that are greyed out. These are **PR Policies** set by the admins.
+
+**Common policies you will encounter:**
+* **Required Reviewers**: You cannot merge until at least one (or two) teammates have approved your changes.
+* **Build Validation**: ADO automatically runs the test suite. If the tests fail, the build is "Broken," and the merge is blocked until you fix the code.
+* **Work Item Linkage**: Some repos are configured to block the PR if no Work Item is linked.
+
+If you see a merge block, don't panic. Check the **Policies** tab in the PR to see exactly which requirement hasn't been met yet.
+
+---
+[⬅️ Back to ADO Index](index.md)
+

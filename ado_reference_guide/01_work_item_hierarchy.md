@@ -63,3 +63,7 @@ If a senior developer asks you *why* you are creating a specific database table,
 * Which is part of the **Epic** "Modernize User Authentication."
 
 This ensures we aren't building things "just because," but are always contributing to a larger goal.
+
+---
+[⬅️ Back to ADO Index](index.md)
+

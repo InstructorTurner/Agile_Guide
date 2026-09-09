@@ -35,3 +35,7 @@ You see a story in the backlog: "Improve performance of the search page."
 This is too vague to be "Ready." Instead of waiting for the sprint to start, you comment on the work item in ADO: *"Could we specify a target load time? For example, 'Search results should load in under 2 seconds for 1000 records'."* 
 
 By doing this in the backlog, you prevent a "blocker" from occurring mid-sprint.
+
+---
+[⬅️ Back to ADO Index](index.md)
+

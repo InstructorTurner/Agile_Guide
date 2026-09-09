@@ -23,6 +23,7 @@ Azure DevOps is our central hub for planning, tracking, and coding. For junior d
 3. **🔄 Execution:**
     * [Sprint Boards](02_sprint_boards.md)(./02_sprint_boards.md): Using the Taskboard to manage your daily flow.
     * [Repo Workflow](04_repo_workflow.md)(./04_repo_workflow.md): Linking code to work items and submitting PRs.
+    * [Navigation and Customization](05_navigation_and_customization.md)(./05_navigation_and_customization.md): Mastering filters, tags, and retrospectives.
 
 ***
 *This guide is designed for junior developers to help them navigate our specific ADO configuration and best practices.*
