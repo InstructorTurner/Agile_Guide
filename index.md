@@ -24,6 +24,7 @@ Ready to put theory into practice? Follow these step-by-step guides to handle re
 - **[Sprint Retrospective](walkthroughs/retrospective.md)** - Turn team feedback into process improvements.
 - **[WIP Management](walkthroughs/wip_management.md)** - Master the art of "Stop Starting, Start Finishing."
 - **[Feature Branch Lifecycle](walkthroughs/feature_branch_lifecycle.md)** - Navigate a feature from Work Item to Dev.
+- **[PR Review Guide](walkthroughs/pr-review-guide.md)** - A guide for developers who are new to reviewing.
 
 ## How to Use This Guide
 Each section is organized numerically. We recommend reading them in order to build a solid foundation before diving into advanced topics.
