@@ -13,10 +13,11 @@ If you aren't sure where to start, we recommend the following order:
 
 1.  **[Agile Reference Guide](agile_reference_guide/)** - Understand the philosophy and mindset of Agile.
 2.  **[Scrum Reference Guide](scrum_reference_guide/)** - Learn the most popular framework for implementing Agile.
-3.  **[Azure DevOps Reference Guide](ado_reference_guide/)** - Master the tools we use to manage work and code.
-4.  **[Git Reference Guide](git_reference_guide/)** - Master the essential tools for version control and collaboration.
-5.  **[Kanban Reference Guide](kanban_reference_guide/)** - Learn how to manage flow and visualize work.
-6.  **[Extreme Programming (XP) Guide](extreme_programming_guide/)** - Dive into high-discipline engineering practices.
+3.  **[Spec-Driven Development Guide](sdd_reference_guide/)** - Master the art of defining intent before implementation.
+4.  **[Azure DevOps Reference Guide](ado_reference_guide/)** - Master the tools we use to manage work and code.
+5.  **[Git Reference Guide](git_reference_guide/)** - Master the essential tools for version control and collaboration.
+6.  **[Kanban Reference Guide](kanban_reference_guide/)** - Learn how to manage flow and visualize work.
+7.  **[Extreme Programming (XP) Guide](extreme_programming_guide/)** - Dive into high-discipline engineering practices.
 
 ## 🛠️ Interactive Walkthroughs
 Ready to put theory into practice? Follow these step-by-step guides to handle real-world scenarios:
