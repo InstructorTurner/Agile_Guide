@@ -16,7 +16,8 @@ Tags are a flexible way to categorize work items without changing their formal h
 2. Locate the **Tags** field (usually near the top right or under the title).
 3. Type your tag and press Enter.
 
-**Commonly used tags in our team:**
+**Commonly used tags**
+
 * `Blocked`: Indicates you cannot proceed until something else happens.
 * `Needs-Review`: The work is done, but you are waiting for a peer's eyes.
 * `Tech-Debt`: Marks work that is a temporary fix and needs a permanent solution later.
